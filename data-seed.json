@@ -1,0 +1,1222 @@
+{
+  "version": 1,
+  "farm": {
+    "name": "Ferme bio — Four (Nord-Isère)",
+    "commune": "Four"
+  },
+  "campaign": "2026",
+  "parcelles": [
+    {
+      "id": "38172 — îlot 1 / parcelle 4",
+      "label": "38172 — îlot 1 / parcelle 4",
+      "commune": "38172",
+      "ilot": "1",
+      "numero": "4",
+      "surface": 0.92,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 2 / parcelle 1",
+      "label": "38172 — îlot 2 / parcelle 1",
+      "commune": "38172",
+      "ilot": "2",
+      "numero": "1",
+      "surface": 0.53,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 3 / parcelle 1",
+      "label": "38172 — îlot 3 / parcelle 1",
+      "commune": "38172",
+      "ilot": "3",
+      "numero": "1",
+      "surface": 1.67,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 4 / parcelle 2",
+      "label": "38172 — îlot 4 / parcelle 2",
+      "commune": "38172",
+      "ilot": "4",
+      "numero": "2",
+      "surface": 1.15,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 4 / parcelle 3",
+      "label": "38172 — îlot 4 / parcelle 3",
+      "commune": "38172",
+      "ilot": "4",
+      "numero": "3",
+      "surface": 1.83,
+      "culture": "BTH"
+    },
+    {
+      "id": "38172 — îlot 4 / parcelle 4",
+      "label": "38172 — îlot 4 / parcelle 4",
+      "commune": "38172",
+      "ilot": "4",
+      "numero": "4",
+      "surface": 1.04,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 4 / parcelle 5",
+      "label": "38172 — îlot 4 / parcelle 5",
+      "commune": "38172",
+      "ilot": "4",
+      "numero": "5",
+      "surface": 1.63,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 4 / parcelle 6",
+      "label": "38172 — îlot 4 / parcelle 6",
+      "commune": "38172",
+      "ilot": "4",
+      "numero": "6",
+      "surface": 0.48,
+      "culture": "PTR"
+    },
+    {
+      "id": "38172 — îlot 4 / parcelle 8",
+      "label": "38172 — îlot 4 / parcelle 8",
+      "commune": "38172",
+      "ilot": "4",
+      "numero": "8",
+      "surface": 2.79,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 5 / parcelle 1",
+      "label": "38172 — îlot 5 / parcelle 1",
+      "commune": "38172",
+      "ilot": "5",
+      "numero": "1",
+      "surface": 3.29,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 6 / parcelle 1",
+      "label": "38172 — îlot 6 / parcelle 1",
+      "commune": "38172",
+      "ilot": "6",
+      "numero": "1",
+      "surface": 2.06,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 7 / parcelle 1",
+      "label": "38172 — îlot 7 / parcelle 1",
+      "commune": "38172",
+      "ilot": "7",
+      "numero": "1",
+      "surface": 2.02,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 8 / parcelle 1",
+      "label": "38172 — îlot 8 / parcelle 1",
+      "commune": "38172",
+      "ilot": "8",
+      "numero": "1",
+      "surface": 0.23,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 9 / parcelle 2",
+      "label": "38172 — îlot 9 / parcelle 2",
+      "commune": "38172",
+      "ilot": "9",
+      "numero": "2",
+      "surface": 1.91,
+      "culture": "CZH"
+    },
+    {
+      "id": "38339 — îlot 10 / parcelle 1",
+      "label": "38339 — îlot 10 / parcelle 1",
+      "commune": "38339",
+      "ilot": "10",
+      "numero": "1",
+      "surface": 0.18,
+      "culture": "MLF"
+    },
+    {
+      "id": "38339 — îlot 10 / parcelle 4",
+      "label": "38339 — îlot 10 / parcelle 4",
+      "commune": "38339",
+      "ilot": "10",
+      "numero": "4",
+      "surface": 1.63,
+      "culture": "MLF"
+    },
+    {
+      "id": "38172 — îlot 11 / parcelle 1",
+      "label": "38172 — îlot 11 / parcelle 1",
+      "commune": "38172",
+      "ilot": "11",
+      "numero": "1",
+      "surface": 0.02,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 11 / parcelle 2",
+      "label": "38172 — îlot 11 / parcelle 2",
+      "commune": "38172",
+      "ilot": "11",
+      "numero": "2",
+      "surface": 0.49,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 11 / parcelle 3",
+      "label": "38172 — îlot 11 / parcelle 3",
+      "commune": "38172",
+      "ilot": "11",
+      "numero": "3",
+      "surface": 2.41,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 11 / parcelle 4",
+      "label": "38172 — îlot 11 / parcelle 4",
+      "commune": "38172",
+      "ilot": "11",
+      "numero": "4",
+      "surface": 0.42,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 11 / parcelle 5",
+      "label": "38172 — îlot 11 / parcelle 5",
+      "commune": "38172",
+      "ilot": "11",
+      "numero": "5",
+      "surface": 1.76,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 11 / parcelle 6",
+      "label": "38172 — îlot 11 / parcelle 6",
+      "commune": "38172",
+      "ilot": "11",
+      "numero": "6",
+      "surface": 1.55,
+      "culture": "JAC"
+    },
+    {
+      "id": "38172 — îlot 12 / parcelle 1",
+      "label": "38172 — îlot 12 / parcelle 1",
+      "commune": "38172",
+      "ilot": "12",
+      "numero": "1",
+      "surface": 0.1,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 12 / parcelle 2",
+      "label": "38172 — îlot 12 / parcelle 2",
+      "commune": "38172",
+      "ilot": "12",
+      "numero": "2",
+      "surface": 2.33,
+      "culture": "MLF"
+    },
+    {
+      "id": "38172 — îlot 12 / parcelle 3",
+      "label": "38172 — îlot 12 / parcelle 3",
+      "commune": "38172",
+      "ilot": "12",
+      "numero": "3",
+      "surface": 0.45,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 13 / parcelle 1",
+      "label": "38172 — îlot 13 / parcelle 1",
+      "commune": "38172",
+      "ilot": "13",
+      "numero": "1",
+      "surface": 2.85,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 13 / parcelle 2",
+      "label": "38172 — îlot 13 / parcelle 2",
+      "commune": "38172",
+      "ilot": "13",
+      "numero": "2",
+      "surface": 2.24,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 13 / parcelle 3",
+      "label": "38172 — îlot 13 / parcelle 3",
+      "commune": "38172",
+      "ilot": "13",
+      "numero": "3",
+      "surface": 0.27,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 14 / parcelle 1",
+      "label": "38172 — îlot 14 / parcelle 1",
+      "commune": "38172",
+      "ilot": "14",
+      "numero": "1",
+      "surface": 0.06,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 14 / parcelle 3",
+      "label": "38172 — îlot 14 / parcelle 3",
+      "commune": "38172",
+      "ilot": "14",
+      "numero": "3",
+      "surface": 7.48,
+      "culture": "MLF"
+    },
+    {
+      "id": "38172 — îlot 15 / parcelle 1",
+      "label": "38172 — îlot 15 / parcelle 1",
+      "commune": "38172",
+      "ilot": "15",
+      "numero": "1",
+      "surface": 2.58,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 16 / parcelle 1",
+      "label": "38172 — îlot 16 / parcelle 1",
+      "commune": "38172",
+      "ilot": "16",
+      "numero": "1",
+      "surface": 2.22,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 16 / parcelle 2",
+      "label": "38172 — îlot 16 / parcelle 2",
+      "commune": "38172",
+      "ilot": "16",
+      "numero": "2",
+      "surface": 0.94,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 17 / parcelle 2",
+      "label": "38172 — îlot 17 / parcelle 2",
+      "commune": "38172",
+      "ilot": "17",
+      "numero": "2",
+      "surface": 1.43,
+      "culture": "CZH"
+    },
+    {
+      "id": "38172 — îlot 18 / parcelle 2",
+      "label": "38172 — îlot 18 / parcelle 2",
+      "commune": "38172",
+      "ilot": "18",
+      "numero": "2",
+      "surface": 3.35,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 18 / parcelle 4",
+      "label": "38172 — îlot 18 / parcelle 4",
+      "commune": "38172",
+      "ilot": "18",
+      "numero": "4",
+      "surface": 6.09,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 18 / parcelle 5",
+      "label": "38172 — îlot 18 / parcelle 5",
+      "commune": "38172",
+      "ilot": "18",
+      "numero": "5",
+      "surface": 1.1,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 19 / parcelle 1",
+      "label": "38172 — îlot 19 / parcelle 1",
+      "commune": "38172",
+      "ilot": "19",
+      "numero": "1",
+      "surface": 0.34,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 19 / parcelle 2",
+      "label": "38172 — îlot 19 / parcelle 2",
+      "commune": "38172",
+      "ilot": "19",
+      "numero": "2",
+      "surface": 0.0,
+      "culture": "SNE"
+    },
+    {
+      "id": "38172 — îlot 20 / parcelle 1",
+      "label": "38172 — îlot 20 / parcelle 1",
+      "commune": "38172",
+      "ilot": "20",
+      "numero": "1",
+      "surface": 0.94,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 21 / parcelle 1",
+      "label": "38172 — îlot 21 / parcelle 1",
+      "commune": "38172",
+      "ilot": "21",
+      "numero": "1",
+      "surface": 0.2,
+      "culture": "PTR"
+    },
+    {
+      "id": "38172 — îlot 21 / parcelle 3",
+      "label": "38172 — îlot 21 / parcelle 3",
+      "commune": "38172",
+      "ilot": "21",
+      "numero": "3",
+      "surface": 1.3,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 22 / parcelle 1",
+      "label": "38172 — îlot 22 / parcelle 1",
+      "commune": "38172",
+      "ilot": "22",
+      "numero": "1",
+      "surface": 0.32,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 23 / parcelle 2",
+      "label": "38172 — îlot 23 / parcelle 2",
+      "commune": "38172",
+      "ilot": "23",
+      "numero": "2",
+      "surface": 0.95,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 23 / parcelle 5",
+      "label": "38172 — îlot 23 / parcelle 5",
+      "commune": "38172",
+      "ilot": "23",
+      "numero": "5",
+      "surface": 1.52,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 24 / parcelle 1",
+      "label": "38172 — îlot 24 / parcelle 1",
+      "commune": "38172",
+      "ilot": "24",
+      "numero": "1",
+      "surface": 0.44,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 24 / parcelle 2",
+      "label": "38172 — îlot 24 / parcelle 2",
+      "commune": "38172",
+      "ilot": "24",
+      "numero": "2",
+      "surface": 1.48,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 24 / parcelle 3",
+      "label": "38172 — îlot 24 / parcelle 3",
+      "commune": "38172",
+      "ilot": "24",
+      "numero": "3",
+      "surface": 1.11,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 25 / parcelle 2",
+      "label": "38172 — îlot 25 / parcelle 2",
+      "commune": "38172",
+      "ilot": "25",
+      "numero": "2",
+      "surface": 0.6,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 26 / parcelle 1",
+      "label": "38172 — îlot 26 / parcelle 1",
+      "commune": "38172",
+      "ilot": "26",
+      "numero": "1",
+      "surface": 3.13,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 27 / parcelle 1",
+      "label": "38172 — îlot 27 / parcelle 1",
+      "commune": "38172",
+      "ilot": "27",
+      "numero": "1",
+      "surface": 5.55,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 28 / parcelle 2",
+      "label": "38172 — îlot 28 / parcelle 2",
+      "commune": "38172",
+      "ilot": "28",
+      "numero": "2",
+      "surface": 1.15,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 29 / parcelle 1",
+      "label": "38172 — îlot 29 / parcelle 1",
+      "commune": "38172",
+      "ilot": "29",
+      "numero": "1",
+      "surface": 1.39,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 30 / parcelle 1",
+      "label": "38172 — îlot 30 / parcelle 1",
+      "commune": "38172",
+      "ilot": "30",
+      "numero": "1",
+      "surface": 1.63,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 31 / parcelle 1",
+      "label": "38172 — îlot 31 / parcelle 1",
+      "commune": "38172",
+      "ilot": "31",
+      "numero": "1",
+      "surface": 2.88,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 32 / parcelle 1",
+      "label": "38172 — îlot 32 / parcelle 1",
+      "commune": "38172",
+      "ilot": "32",
+      "numero": "1",
+      "surface": 0.56,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 32 / parcelle 3",
+      "label": "38172 — îlot 32 / parcelle 3",
+      "commune": "38172",
+      "ilot": "32",
+      "numero": "3",
+      "surface": 3.84,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 33 / parcelle 3",
+      "label": "38172 — îlot 33 / parcelle 3",
+      "commune": "38172",
+      "ilot": "33",
+      "numero": "3",
+      "surface": 2.54,
+      "culture": "MLF"
+    },
+    {
+      "id": "38172 — îlot 34 / parcelle 1",
+      "label": "38172 — îlot 34 / parcelle 1",
+      "commune": "38172",
+      "ilot": "34",
+      "numero": "1",
+      "surface": 0.41,
+      "culture": "CPL"
+    },
+    {
+      "id": "38172 — îlot 34 / parcelle 2",
+      "label": "38172 — îlot 34 / parcelle 2",
+      "commune": "38172",
+      "ilot": "34",
+      "numero": "2",
+      "surface": 0.79,
+      "culture": "PPH"
+    },
+    {
+      "id": "38339 — îlot 35 / parcelle 1",
+      "label": "38339 — îlot 35 / parcelle 1",
+      "commune": "38339",
+      "ilot": "35",
+      "numero": "1",
+      "surface": 2.09,
+      "culture": "BTH"
+    },
+    {
+      "id": "38172 — îlot 36 / parcelle 1",
+      "label": "38172 — îlot 36 / parcelle 1",
+      "commune": "38172",
+      "ilot": "36",
+      "numero": "1",
+      "surface": 0.31,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 37 / parcelle 1",
+      "label": "38172 — îlot 37 / parcelle 1",
+      "commune": "38172",
+      "ilot": "37",
+      "numero": "1",
+      "surface": 0.21,
+      "culture": "PPH"
+    },
+    {
+      "id": "38172 — îlot 38 / parcelle 1",
+      "label": "38172 — îlot 38 / parcelle 1",
+      "commune": "38172",
+      "ilot": "38",
+      "numero": "1",
+      "surface": 0.3,
+      "culture": "PPH"
+    },
+    {
+      "id": "38339 — îlot 40 / parcelle 1",
+      "label": "38339 — îlot 40 / parcelle 1",
+      "commune": "38339",
+      "ilot": "40",
+      "numero": "1",
+      "surface": 1.2,
+      "culture": "MLF"
+    },
+    {
+      "id": "38339 — îlot 41 / parcelle 1",
+      "label": "38339 — îlot 41 / parcelle 1",
+      "commune": "38339",
+      "ilot": "41",
+      "numero": "1",
+      "surface": 0.17,
+      "culture": "PPH"
+    },
+    {
+      "id": "38339 — îlot 41 / parcelle 2",
+      "label": "38339 — îlot 41 / parcelle 2",
+      "commune": "38339",
+      "ilot": "41",
+      "numero": "2",
+      "surface": 0.69,
+      "culture": "JAC"
+    },
+    {
+      "id": "38339 — îlot 42 / parcelle 1",
+      "label": "38339 — îlot 42 / parcelle 1",
+      "commune": "38339",
+      "ilot": "42",
+      "numero": "1",
+      "surface": 0.84,
+      "culture": "PPH"
+    },
+    {
+      "id": "38339 — îlot 42 / parcelle 2",
+      "label": "38339 — îlot 42 / parcelle 2",
+      "commune": "38339",
+      "ilot": "42",
+      "numero": "2",
+      "surface": 0.84,
+      "culture": "MLF"
+    },
+    {
+      "id": "38339 — îlot 42 / parcelle 3",
+      "label": "38339 — îlot 42 / parcelle 3",
+      "commune": "38339",
+      "ilot": "42",
+      "numero": "3",
+      "surface": 0.46,
+      "culture": "MLF"
+    },
+    {
+      "id": "38339 — îlot 42 / parcelle 4",
+      "label": "38339 — îlot 42 / parcelle 4",
+      "commune": "38339",
+      "ilot": "42",
+      "numero": "4",
+      "surface": 0.72,
+      "culture": "PPH"
+    },
+    {
+      "id": "38339 — îlot 43 / parcelle 1",
+      "label": "38339 — îlot 43 / parcelle 1",
+      "commune": "38339",
+      "ilot": "43",
+      "numero": "1",
+      "surface": 1.66,
+      "culture": "MLF"
+    },
+    {
+      "id": "38339 — îlot 44 / parcelle 3",
+      "label": "38339 — îlot 44 / parcelle 3",
+      "commune": "38339",
+      "ilot": "44",
+      "numero": "3",
+      "surface": 0.42,
+      "culture": "JAC"
+    },
+    {
+      "id": "38339 — îlot 45 / parcelle 1",
+      "label": "38339 — îlot 45 / parcelle 1",
+      "commune": "38339",
+      "ilot": "45",
+      "numero": "1",
+      "surface": 0.3,
+      "culture": "JAC"
+    },
+    {
+      "id": "38339 — îlot 46 / parcelle 2",
+      "label": "38339 — îlot 46 / parcelle 2",
+      "commune": "38339",
+      "ilot": "46",
+      "numero": "2",
+      "surface": 1.0,
+      "culture": "MLF"
+    },
+    {
+      "id": "38172 — îlot 47 / parcelle 1",
+      "label": "38172 — îlot 47 / parcelle 1",
+      "commune": "38172",
+      "ilot": "47",
+      "numero": "1",
+      "surface": 1.8,
+      "culture": "PPH"
+    }
+  ],
+  "historique": [
+    {
+      "ilot": "1.0",
+      "numero": "1.0",
+      "nom": "Puit",
+      "surface": 0.91,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "2.0",
+      "numero": "1.0",
+      "nom": "Barlan D haut",
+      "surface": 0.53,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "4.0",
+      "numero": "3.0",
+      "nom": "Apres Poulet",
+      "surface": 1.71,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "4.0",
+      "numero": "4.0",
+      "nom": "Fond chemin G",
+      "surface": 2.15,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "7.0",
+      "numero": "1.0",
+      "nom": "Triangle",
+      "surface": 2.02,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "9.0",
+      "numero": "3.0",
+      "nom": "Gilbert Chene",
+      "surface": 1.91,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "10.0",
+      "numero": "1.0",
+      "nom": "Route roche  G",
+      "surface": 1.57,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "11.0",
+      "numero": "2.0",
+      "nom": "RobiniereG",
+      "surface": 1.55,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "11.0",
+      "numero": "4.0",
+      "nom": "Etang",
+      "surface": 0.42,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "11.0",
+      "numero": "6.0",
+      "nom": "Robiniere G",
+      "surface": 1.75,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "12.0",
+      "numero": "2.0",
+      "nom": "Montalcon",
+      "surface": 2.43,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "13.0",
+      "numero": "2.0",
+      "nom": "Perreau",
+      "surface": 2.24,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "14.0",
+      "numero": "3.0",
+      "nom": "Sous Louison",
+      "surface": 2.5,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "16.0",
+      "numero": "1.0",
+      "nom": "Cotoniere D",
+      "surface": 2.58,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "17.0",
+      "numero": "3.0",
+      "nom": "Chem Anes",
+      "surface": 2.22,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "18.0",
+      "numero": "3.0",
+      "nom": "Desvignes",
+      "surface": 1.43,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "19.0",
+      "numero": "3.0",
+      "nom": "Route roche D",
+      "surface": 6.09,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "19.0",
+      "numero": "5.0",
+      "nom": "RRD dessous",
+      "surface": 1.1,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "23.0",
+      "numero": "3.0",
+      "nom": "Ranche G",
+      "surface": 1.51,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "25.0",
+      "numero": "1.0",
+      "nom": "Barlan D",
+      "surface": 1.52,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "26.0",
+      "numero": "2.0",
+      "nom": "Barlan G",
+      "surface": 1.07,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "27.0",
+      "numero": "1.0",
+      "nom": "Bobillon",
+      "surface": 0.41,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "31.0",
+      "numero": "1.0",
+      "nom": "Caravane",
+      "surface": 0.53,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "34.0",
+      "numero": "1.0",
+      "nom": "Vie dessus",
+      "surface": 2.88,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "35.0",
+      "numero": "1.0",
+      "nom": "Bossan",
+      "surface": 3.68,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "35.0",
+      "numero": "1.0",
+      "nom": "nan",
+      "surface": 0.72,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "36.0",
+      "numero": "2.0",
+      "nom": "Robiniere D",
+      "surface": 2.36,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "37.0",
+      "numero": "1.0",
+      "nom": "Carrosserie",
+      "surface": 0.41,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "38.0",
+      "numero": "1.0",
+      "nom": "Chardon",
+      "surface": 2.09,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "39.0",
+      "numero": "1.0",
+      "nom": "Route roche poteau",
+      "surface": 0.95,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "40.0",
+      "numero": "1.0",
+      "nom": "Décheterie",
+      "surface": 1.47,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    },
+    {
+      "ilot": "41.0",
+      "numero": "1.0",
+      "nom": "Stade roche",
+      "surface": 1.17,
+      "cultures": {
+        "2020": null,
+        "2021": null,
+        "2022": null,
+        "2023": null,
+        "2024": null,
+        "2025": null,
+        "2026": null
+      }
+    }
+  ],
+  "interventions": [],
+  "produits": [
+    {
+      "id": "fumier-bovin",
+      "nom": "Fumier bovin",
+      "type": "effluent",
+      "unit": "t",
+      "n": 0,
+      "p": 0,
+      "k": 0,
+      "note": "À valider — teneurs non renseignées"
+    },
+    {
+      "id": "lisier-bovin",
+      "nom": "Lisier bovin",
+      "type": "effluent",
+      "unit": "m3",
+      "n": 0,
+      "p": 0,
+      "k": 0,
+      "note": "À valider — teneurs non renseignées"
+    },
+    {
+      "id": "fientes-volaille",
+      "nom": "Fientes de volaille",
+      "type": "effluent",
+      "unit": "t",
+      "n": 0,
+      "p": 0,
+      "k": 0,
+      "note": "À valider — teneurs non renseignées"
+    },
+    {
+      "id": "compost",
+      "nom": "Compost",
+      "type": "effluent",
+      "unit": "t",
+      "n": 0,
+      "p": 0,
+      "k": 0,
+      "note": "À valider — teneurs non renseignées"
+    }
+  ],
+  "apports": [],
+  "besoins": {},
+  "elevage": []
+}
